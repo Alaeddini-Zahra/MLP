@@ -1,2 +1,1 @@
-# MLP
-This a simple Multilayer Perceptron that perform on a dataset which some of its features were considered. 
+Biomarker Discovery for Hepatocellular Carcinoma and Sample Classification via MLP on GSE112790 GEO dataset
